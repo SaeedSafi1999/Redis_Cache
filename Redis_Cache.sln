@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SRC", "SRC", "{A27D6E78-9B5F-44C9-BE35-71DF6A82B840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis_Cache", "Redis_Cache\Redis_Cache.csproj", "{10A62DA8-0566-4175-8AEA-31FD1B85A592}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{10A62DA8-0566-4175-8AEA-31FD1B85A592} = {A27D6E78-9B5F-44C9-BE35-71DF6A82B840}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A62DA8-0566-4175-8AEA-31FD1B85A592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A62DA8-0566-4175-8AEA-31FD1B85A592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A62DA8-0566-4175-8AEA-31FD1B85A592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A62DA8-0566-4175-8AEA-31FD1B85A592}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

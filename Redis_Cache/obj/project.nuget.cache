@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wv4FyTQHuoRef8A60cjtMKlsB0Amyog8gwk23mqqGPex+0iB5Re22gbxcuMN6F1c2+GItlIK+3Po8Ggz/k6YUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\RiderProjects\\Redis_Cache\\Redis_Cache\\Redis_Cache.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
